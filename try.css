@@ -1,0 +1,46 @@
+*{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+}
+
+h1{
+    font-size: 28px;
+    /* border: 2px dotted blue; */
+}
+
+header{
+    color: white;
+    background-color: darkolivegreen;
+    text-align: center;
+    padding:75px 0;
+    
+}
+
+
+.cont{
+    width: 500px;
+    margin: 100px auto;
+    /* padding: 200px; */
+    text-align: justify;
+    /* border: 2px double yellow; */
+}
+
+.myskills
+{
+    color: white;
+    padding:75px 0;
+    background-color: darkslategrey;
+    /* border: 2px solid red; */
+}
+.columns{
+    display: flex;
+    /* border: 2px solid hotpink; */
+}
+
+.column{
+    /* border: 2px dotted gold ; */
+    text-align: center;
+    margin:20px ;
+}
+
