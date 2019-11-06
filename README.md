@@ -1,6 +1,6 @@
 # CSS - playground
 
-trying to make responsive website using flexbox and flex propeties
+responsive web design using flexbox and flex propeties
 
 ## sample image
 
