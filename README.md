@@ -2,6 +2,6 @@
 
 responsive web design using flexbox and flex propeties
 
-## sample image
+## sample image 🌌
 
 ![](Screenshot.png)
